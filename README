@@ -1,0 +1,23 @@
+ ==========================
+ = SCREENSHOT AUTO README =
+ ==========================
+
+To Run Screenshot Auto:
+
+1. Download screenshot_auto.zip to your Desktop
+
+2. Unzip / decompress files to your Desktop
+
+3. Run screenshot_auto.app with default settings
+
+-OR-
+
+4. Open screenshot_auto.workflow in Automator and change configuration settings for save-to location or timing.
+
+Software Requirements:
+
+Mac OS X Version 10.5.8
+Automator.app
+Growl.app Notifications
+
+
